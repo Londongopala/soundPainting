@@ -1,0 +1,3 @@
+-march=rv32imc_zicsr_zifencei
+-mtune=esp-base
+"-specs=C:/Users/rosey/soundPainting/.pio/build/esp32-c3-devkitc-02/specs/picolibc.specs"
